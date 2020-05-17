@@ -1,0 +1,30 @@
+@font-face 
+{
+  font-family: 'BerlinSansFBRegular';
+  src:  url('../../Berlin Sans FB Regular.ttf') format('truetype');
+}
+h1
+{
+	text-align: center;
+	background-color: #E67E22;
+	color: #935116;
+}
+body
+{
+    background-color: #750000;
+    font-family : "BerlinSansFBRegular";
+}
+p
+{
+	text-align: center;
+	color: #000000;
+	font-size: 25px;
+}
+form
+{
+	text-align: center;
+}
+#cbfm
+{
+	text-align: center;
+}
